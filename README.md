@@ -17,3 +17,11 @@ Welcome to my portfolio! I specialize in data visualization and business intelli
 <p align="center">
   <img src="https://raw.githubusercontent.com/Litonislam-DA/E-Commerce-Customer-Churn-Analysis/main/Dashboard.png" width="100%">
 </p>
+
+## 🚀 Check my Analysis on Kaggle
+You can find the full datasets and detailed Python notebooks here:
+* 📓 [View my Kaggle Notebooks](https://www.kaggle.com/litonislam)
+* 📊 [Explore my Datasets](https://www.kaggle.com/litonislam)
+
+
+
