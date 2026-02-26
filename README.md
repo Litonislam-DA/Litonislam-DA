@@ -1,4 +1,6 @@
 # 📊 Data Analyst Portfolio
 
 ## 🛒 Amazon Sales Analysis
-![Amazon Dashboard](amazon.png)
+<p align="center">
+  <img src="Amazon_dashboard.png" width="100%">
+</p>
