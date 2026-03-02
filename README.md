@@ -10,6 +10,9 @@ Welcome to my portfolio! I specialize in data visualization and business intelli
   <img src="Amazon_dashboard.png" width="100%">
 </p>
 
+## 🚀 Check my Analysis on Kaggle
+https://www.kaggle.com/code/litonislam/amazon-sales-revenue-data-visualisation
+
 ---
 
 ## 🛍️ [E-Commerce Customer Churn Analysis](https://github.com/Litonislam-DA/E-Commerce-Customer-Churn-Analysis)
