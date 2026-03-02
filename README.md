@@ -33,7 +33,7 @@ You can find the full datasets and detailed Python notebooks here:
 ## 📊 HR Analytics Dashboard
 
 Analyzed employee attrition and retention trends to drive data-driven HR decisions.
-​![HR Dashboard Preview](https://raw.githubusercontent.com/Litonislam-DA/HR-Analytics-Dashboard/main/Ll.png)
+​![HR Dashboard Preview](https://raw.githubusercontent.com/Litonislam-DA/HR-Analytics-Dashboard/main/dashboard)
     
 
 
