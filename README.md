@@ -35,6 +35,10 @@ You can find the full datasets and detailed Python notebooks here:
 Analyzed employee data to identify key trends in attrition and retention to drive data-HR decision
 ​![HR Dashboard Preview](https://raw.githubusercontent.com/Litonislam-DA/HR-Analytics-Dashboard/main/dashboard)
     
+## 🚀 Check my Analysis on Kaggle
+https://www.kaggle.com/code/litonislam/hr-analytics-dashboard
+
+
 
 
 
