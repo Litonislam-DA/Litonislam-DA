@@ -5,6 +5,9 @@ Welcome to my portfolio! I specialize in data visualization and business intelli
 ---
 
 ## 🛒 [Amazon Sales Analysis](https://github.com/Litonislam-DA/Litonislam-DA)
+To me  
+Liton Islam 
+litonislamnext@gmail.com
 *Analyzed sales performance and revenue trends.*
 <p align="center">
   <img src="Amazon_dashboard.png" width="100%">
@@ -17,6 +20,10 @@ https://www.kaggle.com/code/litonislam/amazon-sales-revenue-data-visualisation
 
 ## 🛍️ [E-Commerce Customer Churn Analysis](https://github.com/Litonislam-DA/E-Commerce-Customer-Churn-Analysis)
 *Identifying customer churn patterns to improve retention.*
+To me  
+Liton Islam 
+litonislamnext@gmail.com
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Litonislam-DA/E-Commerce-Customer-Churn-Analysis/main/Dashboard.png" width="100%">
 </p>
@@ -36,6 +43,9 @@ You can find the full datasets and detailed Python notebooks here:
 ## 📊 Employee Attrition & Retention Dashboard
 
 Analyzed employee data to identify key trends in attrition and retention to drive data-HR decision
+To me  
+Liton Islam 
+litonislamnext@gmail.com
 ​![HR Dashboard Preview](https://raw.githubusercontent.com/Litonislam-DA/HR-Analytics-Dashboard/main/dashboard)
     
 ## 🚀 Check my Analysis on Kaggle
