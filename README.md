@@ -41,9 +41,7 @@ litonislamnext@gmail.com.
     ​🌍 Regional Leader: The Middle East and North America emerge as top-performing regions for sales volume.
     ​💳 Payment Habits: Customer orders are almost equally distributed among payment methods, with UPI and Debit Cards being highly popular.
 
-​🖼️ Dashboard Preview
-
-​![Amazon Sales Dashboard](Amazon_dashboard.png)
+​
 
 ## 🚀 Check my Analysis on Kaggle
 https://www.kaggle.com/code/litonislam/amazon-sales-revenue-data-visualisation
@@ -85,9 +83,6 @@ litonislamnext@gmail.com
     ​👥 Gender Loyalty: Analyzing loyalty metrics by gender shows distinct patterns in how male and female customers engage with the platform.
     ​🎂 Age Factor: Churn probability is most volatile in the mid-age segments, suggesting that lifestyle changes may influence purchasing habits.
 
-​🖼️ Dashboard Preview
-
-​![E-commerce Analysis Dashboard](https://raw.githubusercontent.com/Litonislam-DA/E-Commerce-Customer-Churn-Analysis/main/Dashboard.png)
 
  
 ## 🚀 Check my Analysis on Kaggle
