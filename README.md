@@ -7,7 +7,7 @@ Welcome to my portfolio! I specialize in data visualization and business intelli
 ## 🛒 [Amazon Sales Analysis](https://github.com/Litonislam-DA/Litonislam-DA)
 To me  
 Liton Islam 
-litonislamnext@gmail.com
+litonislamnext@gmail.com.
 *Analyzed sales performance and revenue trends.*
 <p align="center">
   <img src="Amazon_dashboard.png" width="100%">
