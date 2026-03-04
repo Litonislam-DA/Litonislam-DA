@@ -44,8 +44,32 @@ https://www.kaggle.com/code/litonislam/hr-analytics-dashboard
 
 
 
+to me
+Liton Islam <litonislamnext@gmail.com>
 
+​📊 Netflix Content Strategy & Insights Dashboard
+<img width="1298" height="811" alt="Netflix Content Strategy   Insights Dashboard" src="https://github.com/user-attachments/assets/e8cd9330-e9e9-4b9b-9338-f8cf51eee9ae" />
+​📝 Project Overview
 
+​This project provides a comprehensive data-driven analysis of Netflix's content catalog. Using Power BI, the dashboard explores trends in content types, genres, audience ratings, and release patterns to understand Netflix's evolving global content strategy.
+​🚀 Key Features
 
+    ​Content Mix Analysis: A detailed breakdown of the Movies (67.43%) vs. TV Shows (32.51%) ratio.
+    ​Geographical Insights: Visualizing content production by top-performing countries like the USA, India, and UK.
+    ​Rating Segmentation: Classification of the library based on audience age ratings (TV-MA, TV-14, etc.).
+    ​Release Timeline: Tracking the exponential growth of content volume since 2015.
+
+​🛠️ Tools Used
+
+    ​Power BI: For data cleaning, modeling, and interactive visualization.
+    ​DAX: For creating custom measures and data aggregations.
+    ​Dataset: Netflix Movies and TV Shows dataset.
+
+​🔍 Key Insights
+
+    ​🎬 Content Variety: Netflix focuses more on Movies than TV Shows.
+    ​🌍 Global Leaders: The United States leads in production, followed significantly by India.
+    ​📈 Streaming Boom: A massive surge in content additions is visible after 2015.
+    ​🔞 Target Audience: A heavy focus on mature audiences, as indicated by the high volume of TV-MA rated content.
 
 
