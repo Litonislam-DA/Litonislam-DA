@@ -163,5 +163,12 @@ Liton Islam <litonislamnext@gmail.com>
   * 📊 https://www.kaggle.com/code/litonislam/netflix-data-analysis-trends-insights
 
 	
+### 📊 Supply Chain Data Visualization
+This project provides a comprehensive analysis of supply chain operations, including inventory, shipping costs, and lead time metrics.
 
+* **Tech Stack:** Python (Pandas, Matplotlib, Seaborn)
+* **Key Features:** Revenue analysis, Logistics optimization, Transport mode comparison.
+* **Dashboard Preview:** ![Supply Chain Dashboard](Supply%20chain%20Dashboard.png)
+
+[https://www.kaggle.com/code/litonislam/supply-chain-data-visualization](লিঙ্কটি এখানে বসান)
 
