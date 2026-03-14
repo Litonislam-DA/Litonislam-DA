@@ -168,7 +168,7 @@ This project provides a comprehensive analysis of supply chain operations, inclu
 
 * **Tech Stack:** Python (Pandas, Matplotlib, Seaborn)
 * **Key Features:** Revenue analysis, Logistics optimization, Transport mode comparison.
-* **Dashboard Preview:** ![Supply Chain Dashboard](Supply%20chain%20Dashboard.png)
+* **Dashboard Preview:** ![SupplyChainDashboard](Supply%20chain%20Dashboard.png)
 
 [https://www.kaggle.com/code/litonislam/supply-chain-data-visualization](লিঙ্কটি এখানে বসান)
 
