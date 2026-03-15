@@ -165,12 +165,7 @@ Liton Islam <litonislamnext@gmail.com>
 ### 📊 Supply Chain Data Visualization
 to me
  Liton Islam <litonislamnext@gmail.com>
-![SupplyChainDashboard](Supply%20chain%20Dashboard.png)
 
-*Analyzed sales performance and revenue trends.*
-<p align="center">
-  <img src="SupplychainDashboard.png" width="100%">
-</p>
 This project provides a comprehensive analysis of supply chain operations, including inventory, shipping costs, and lead time metrics.
 
 * **Tech Stack:** Python (Pandas, Matplotlib, Seaborn)
