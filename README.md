@@ -92,7 +92,8 @@ litonislamnext@gmail.com
     ​👥 Gender Loyalty: Analyzing loyalty metrics by gender shows distinct patterns in how male and female customers engage with the platform.
     ​🎂 Age Factor: Churn probability is most volatile in the mid-age segments, suggesting that lifestyle changes may influence purchasing habits.
 
-## 🚀 Check my Analysis on Kaggle
+
+🚀 Explore the Full Analysis on Kaggle:
 You can find the full datasets and detailed Python notebooks here:
 * 📓 [View my Kaggle Notebooks](https://www.kaggle.com/litonislam)
 * 📊 [Explore my Datasets](https://www.kaggle.com/litonislam)
@@ -130,7 +131,8 @@ litonislamnext@gmail.com
     ​Power BI: For advanced data visualization and dashboarding.
     ​Python (Pandas, Seaborn): For initial Data Cleaning and Exploratory Data Analysis (EDA).
 
-## 🚀 Check my Analysis on Kaggle
+
+🚀 Explore the Full Analysis on Kaggle:
 https://www.kaggle.com/code/litonislam/hr-analytics-dashboard
 
 
@@ -139,10 +141,13 @@ https://www.kaggle.com/code/litonislam/hr-analytics-dashboard
 ---
 
 
-to me
-Liton Islam <litonislamnext@gmail.com>
+
 
 ### 🎬 Netflix Content Strategy Analysis
+To me
+Liton ISlam
+litonislamnext@gmail.com.
+
 <img width="1298" height="811" alt="Netflix Content Strategy   Insights Dashboard" src="https://github.com/user-attachments/assets/e8cd9330-e9e9-4b9b-9338-f8cf51eee9ae" />
 ​### 📝 Project Overview
 This project provides a comprehensive, data-driven analysis of Netflix's global content catalog. Using **Power BI**, I explored complex trends in content types, genres, audience ratings, and release patterns to understand the platform's evolving content strategy.
@@ -163,7 +168,8 @@ This project provides a comprehensive, data-driven analysis of Netflix's global 
 * 🌍 **Global Leaders:** The United States leads content production, followed closely by India.
 * 📈 **Streaming Boom:** A massive surge in content library expansion observed post-2015.
 * 🔞 **Target Audience:** Strong focus on mature content, indicated by the high volume of TV-MA rated productions.
-   🚀 Check my Analysis on Kaggle
+  
+🚀 Explore the Full Analysis on Kaggle:
  * 📊[Notebook]https://www.kaggle.com/code/litonislam/netflix-data-analysis-trends-insights
  * 📊[Dataset]https://www.kaggle.com/datasets/litonislam/supply-chain-data-analysis
 	
@@ -173,6 +179,12 @@ This project provides a comprehensive, data-driven analysis of Netflix's global 
  ---
  
 ### 🚚 Supply Chain & Logistics Analytics
+
+
+ ---
+
+ ---
+
 
 to me
  Liton Islam <litonislamnext@gmail.com>
@@ -200,6 +212,6 @@ This project visualizes end-to-end supply chain and logistics operations, offeri
 
 
 
-🚀 Check my Analysis on Kaggle
+🚀 Explore the Full Analysis on Kaggle:
 https://www.kaggle.com/code/litonislam/supply-chain-data-visualization
 
