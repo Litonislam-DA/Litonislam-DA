@@ -282,3 +282,26 @@ To me
 🚀 Explore the Full Analysis on Kaggle:
 * 📊[Notebook]https://www.kaggle.com/code/litonislam/superstore-sales-insight-dataset
 * 📊[Dataset]https://www.kaggle.com/datasets/litonislam/superstore-sales-insights
+
+
+
+
+ ---
+
+ ---
+
+
+To me
+
+ Liton Islam
+ 
+ <litonislamnext@gmail.com>
+
+
+
+
+
+* 📊[Notebook]https://www.kaggle.com/code/litonislam/customer-churn-analysis-data-visualization
+* 📊[Dataset]https://www.kaggle.com/datasets/litonislam/customer-churn-analysis
+
+
