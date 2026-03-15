@@ -178,6 +178,9 @@ This project provides a comprehensive analysis of supply chain operations, inclu
 * **Transport Efficiency:** Road transport shows the highest number of products distributed compared to other modes.
 * **Shipping Cost Correlation:** Shipping costs vary significantly across transport modes, with Road being the primary driver.
 * **Revenue Drivers:** There is a clear correlation between lead time and total revenue, highlighting key periods of peak performance.
+
+
+
 🚀 Check my Analysis on Kaggle
 [https://www.kaggle.com/code/litonislam/supply-chain-data-visualization]()
 
