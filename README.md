@@ -166,7 +166,7 @@ Liton Islam <litonislamnext@gmail.com>
 to me
  Liton Islam <litonislamnext@gmail.com>
 <p align="center">
-  <img src="SupplychainDashboard.png" width="100%">
+  <img src="Supply chain Dashboard.png" width="100%">
 </p>
 
 This project provides a comprehensive analysis of supply chain operations, including inventory, shipping costs, and lead time metrics.
