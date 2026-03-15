@@ -46,7 +46,8 @@ litonislamnext@gmail.com.
     ​Customer Behavior: Orders are remarkably well-distributed across payment methods, showing no heavy dependency on a single gateway.
 
 🚀 Explore the Full Analysis on Kaggle:
-https://www.kaggle.com/code/litonislam/amazon-sales-revenue-data-visualisation
+* 📊[Notebook]https://www.kaggle.com/code/litonislam/amazon-sales-revenue-data-visualisation
+* 📊[Dataset]https://www.kaggle.com/datasets/litonislam/amazon-sales-analysis-cleaned-data
 
 
 ---
@@ -95,8 +96,8 @@ litonislamnext@gmail.com
 
 🚀 Explore the Full Analysis on Kaggle:
 You can find the full datasets and detailed Python notebooks here:
-* 📓 [View my Kaggle Notebooks](https://www.kaggle.com/litonislam)
-* 📊 [Explore my Datasets](https://www.kaggle.com/litonislam)
+* 📊 [Notebook](https://www.kaggle.com/litonislam)
+* 📊 [Dataset](https://www.kaggle.com/litonislam)
 
   
 ---
@@ -133,8 +134,8 @@ litonislamnext@gmail.com
 
 
 🚀 Explore the Full Analysis on Kaggle:
-https://www.kaggle.com/code/litonislam/hr-analytics-dashboard
-
+* 📊[Notebook]https://www.kaggle.com/code/litonislam/hr-analytics-dashboard
+* 📊[Dataset]https://www.kaggle.com/datasets/litonislam/hr-analytics-cleaned-and-processed-employee-dataset
 
 ---
 
@@ -213,6 +214,6 @@ This project visualizes end-to-end supply chain and logistics operations, offeri
 
 
 🚀 Explore the Full Analysis on Kaggle:
-[Notebook]https://www.kaggle.com/code/litonislam/supply-chain-data-visualization
-[Dataset]https://www.kaggle.com/datasets/litonislam/supply-chain-data-analysis
+* 📊[Notebook]https://www.kaggle.com/code/litonislam/supply-chain-data-visualization
+* 📊[Dataset]https://www.kaggle.com/datasets/litonislam/supply-chain-data-analysis
 
