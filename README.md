@@ -200,7 +200,7 @@ This project provides a comprehensive, data-driven analysis of Netflix's global 
 
 
 To me
- Liton Islam
+Liton Islam
  
  <litonislamnext@gmail.com>
 
@@ -243,7 +243,7 @@ This project visualizes end-to-end supply chain and logistics operations, offeri
 
 
 To me
- Liton Islam
+Liton Islam
  
  <litonislamnext@gmail.com>
 
@@ -290,9 +290,10 @@ To me
 
 ### 📉 Customer Churn Analysis
 To me
+
 Liton Islam
  
- <litonislamnext@gmail.com>
+<litonislamnext@gmail.com>
 
 <p align="center">
   <img src="Customer_Churn_Analysis.png" width="100%">
