@@ -59,9 +59,11 @@ litonislamnext@gmail.com.
 ---
 
 ---
-*Identifying customer churn patterns to improve retention.*
+📉 E-Commerce Customer Churn & Retention Analysis
 To me  
+
 Liton Islam 
+
 litonislamnext@gmail.com
 
 <p align="center">
@@ -111,9 +113,14 @@ You can find the full datasets and detailed Python notebooks here:
 
 ---
 Analyzed employee data to identify key trends in attrition and retention to drive data-HR decision
+
+
 To me  
+
 Liton Islam 
+
 litonislamnext@gmail.com
+
 ​![HR Dashboard Preview](https://raw.githubusercontent.com/Litonislam-DA/HR-Analytics-Dashboard/main/dashboard) 
 
 
@@ -146,7 +153,9 @@ litonislamnext@gmail.com
 
 ### 🎬 Netflix Content Strategy Analysis
 To me
-Liton ISlam
+
+Liton Islam
+
 litonislamnext@gmail.com.
 
 <img width="1298" height="811" alt="Netflix Content Strategy   Insights Dashboard" src="https://github.com/user-attachments/assets/e8cd9330-e9e9-4b9b-9338-f8cf51eee9ae" />
@@ -188,7 +197,10 @@ This project provides a comprehensive, data-driven analysis of Netflix's global 
 
 
 to me
- Liton Islam <litonislamnext@gmail.com>
+
+ Liton Islam
+ 
+ <litonislamnext@gmail.com>
 
 <p align="center">
   <img src="Supply chain Dashboard.png" width="100%">
