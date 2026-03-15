@@ -2,7 +2,11 @@
 
 Welcome to my portfolio! I specialize in data visualization and business intelligence.
 
+
 ---
+
+---
+
 
 ## 🛒 [Amazon Sales Analysis](https://github.com/Litonislam-DA/Litonislam-DA)
 To me  
@@ -45,8 +49,10 @@ litonislamnext@gmail.com.
 https://www.kaggle.com/code/litonislam/amazon-sales-revenue-data-visualisation
 
 
+---
 
 ---
+
 
 ## 🛍️ [E-Commerce Customer Churn Analysis](https://github.com/Litonislam-DA/E-Commerce-Customer-Churn-Analysis)
 *Identifying customer churn patterns to improve retention.*
@@ -88,9 +94,11 @@ You can find the full datasets and detailed Python notebooks here:
 * 📓 [View my Kaggle Notebooks](https://www.kaggle.com/litonislam)
 * 📊 [Explore my Datasets](https://www.kaggle.com/litonislam)
 
-
+  
+---
 
 ---
+
 
 ## 📊 Employee Attrition & Retention Dashboard
 
@@ -119,9 +127,11 @@ litonislamnext@gmail.com
 ## 🚀 Check my Analysis on Kaggle
 https://www.kaggle.com/code/litonislam/hr-analytics-dashboard
 
+
 ---
 
 ---
+
 
 to me
 Liton Islam <litonislamnext@gmail.com>
@@ -151,6 +161,8 @@ This project provides a comprehensive, data-driven analysis of Netflix's global 
  * 📊[Notebook]https://www.kaggle.com/code/litonislam/netflix-data-analysis-trends-insights
  * 📊[Dataset]https://www.kaggle.com/datasets/litonislam/supply-chain-data-analysis
 	
+
+ ---
 
  ---
  
