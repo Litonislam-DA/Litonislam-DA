@@ -10,7 +10,8 @@ Welcome to my portfolio! I specialize in data visualization and business intelli
 🛒 Amazon Sales Performance & Revenue Insights
 ## 🛒 [Amazon Sales Analysis](https://github.com/Litonislam-DA/Litonislam-DA)
 To me  
-Liton Islam 
+Liton Islam
+
 litonislamnext@gmail.com.
 
 
@@ -65,7 +66,6 @@ litonislamnext@gmail.com.
 
 
 To me  
-
 Liton Islam 
 
 litonislamnext@gmail.com
@@ -120,7 +120,6 @@ Analyzed employee data to identify key trends in attrition and retention to driv
 
 
 To me  
-
 Liton Islam 
 
 litonislamnext@gmail.com
@@ -157,7 +156,6 @@ litonislamnext@gmail.com
 
 ### 🎬 Netflix Content Strategy Analysis
 To me
-
 Liton Islam
 
 litonislamnext@gmail.com.
@@ -201,7 +199,6 @@ This project provides a comprehensive, data-driven analysis of Netflix's global 
 
 
 To me
-
  Liton Islam
  
  <litonislamnext@gmail.com>
@@ -245,7 +242,6 @@ This project visualizes end-to-end supply chain and logistics operations, offeri
 
 
 To me
-
  Liton Islam
  
  <litonislamnext@gmail.com>
@@ -293,8 +289,7 @@ To me
 
 ### 📉 Customer Churn Analysis
 To me
-
- Liton Islam
+Liton Islam
  
  <litonislamnext@gmail.com>
 
