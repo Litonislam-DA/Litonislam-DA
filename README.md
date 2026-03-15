@@ -165,7 +165,9 @@ Liton Islam <litonislamnext@gmail.com>
 ### 📊 Supply Chain Data Visualization
 to me
  Liton Islam <litonislamnext@gmail.com>
- ![Supply Chain Data Visualization](supplychainDashboard.png)
+<p align="center">
+  <img src="SupplychainDashboard.png" width="100%">
+</p>
 
 This project provides a comprehensive analysis of supply chain operations, including inventory, shipping costs, and lead time metrics.
 
