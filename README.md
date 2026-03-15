@@ -182,5 +182,5 @@ This project provides a comprehensive analysis of supply chain operations, inclu
 
 
 🚀 Check my Analysis on Kaggle
-[https://www.kaggle.com/code/litonislam/supply-chain-data-visualization]()
+https://www.kaggle.com/code/litonislam/supply-chain-data-visualization
 
