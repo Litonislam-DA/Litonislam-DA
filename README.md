@@ -213,5 +213,6 @@ This project visualizes end-to-end supply chain and logistics operations, offeri
 
 
 🚀 Explore the Full Analysis on Kaggle:
-https://www.kaggle.com/code/litonislam/supply-chain-data-visualization
+[Notebook]https://www.kaggle.com/code/litonislam/supply-chain-data-visualization
+[Dataset]https://www.kaggle.com/datasets/litonislam/supply-chain-data-analysis
 
