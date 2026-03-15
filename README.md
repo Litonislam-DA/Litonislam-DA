@@ -325,9 +325,9 @@ This project provides a data-driven analysis of customer churn within an e-comme
     ​Geographical Impact: Specific countries show higher churn volatility, indicating potential market-specific issues or competitive pressure.
     ​Strategic Planning: Understanding the volume of 'Churned' vs 'Active' users provides a clear benchmark for setting future retention targets.
 
-​🚀 View Analysis on Kaggle:
 
 
+🚀 Explore the Full Analysis on Kaggle:
 * 📊[Notebook]https://www.kaggle.com/code/litonislam/customer-churn-analysis-data-visualization
 * 📊[Dataset]https://www.kaggle.com/datasets/litonislam/customer-churn-analysis
 
