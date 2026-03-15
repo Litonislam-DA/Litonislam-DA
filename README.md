@@ -297,6 +297,9 @@ To me
  
  <litonislamnext@gmail.com>
 
+<p align="center">
+  <img src="Customer_Churn_Analysis.png" width="100%">
+</p>
 
 
 
