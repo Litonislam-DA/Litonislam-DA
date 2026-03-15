@@ -156,28 +156,29 @@ Liton Islam <litonislamnext@gmail.com>
 
  ---
  
-### 🚚 Supply Chain Data Visualization
+### 🚚 Supply Chain & Logistics Analytics
 to me
  Liton Islam <litonislamnext@gmail.com>
 <p align="center">
   <img src="Supply chain Dashboard.png" width="100%">
 </p>
-This project provides a comprehensive analysis of supply chain operations, including inventory, shipping costs, and lead time metrics to optimize logistics efficiency.
+### 📝 Project Overview
+This project visualizes end-to-end supply chain and logistics operations, offering actionable insights for inventory management, cost reduction, and delivery optimization. It captures critical data points—from production to final delivery—enabling data analysts and supply chain professionals to make informed, data-driven decisions.
 
-* **Tech Stack:** Python (Pandas, Matplotlib, Seaborn)
-* **Key Features:** * **Revenue Analysis:** Evaluation of gross revenue ($577.60K) against supply chain variables.
-    * **Logistics Optimization:** Analysis of delivery times (Avg: 17.08) and shipping costs.
-    * **Transport Mode Comparison:** Breakdown of product distribution and revenue across Road, Rail, Air, and Sea.
+### 🔑 Key Features
+* **Gross Revenue Tracking:** Real-time visibility into financial performance and revenue trends.
+* **Logistics Analysis:** Deep insights into Average Delivery Time and lead time impacts.
+* **Cost Efficiency:** Comparative analysis of shipping costs across different transport modes (Road, Air, Rail, Sea).
+* **Interactive Visuals:** Optimized charts to identify trends, anomalies, and operational bottlenecks.
 
-🛠 **Tools Used**
-* **Python:** For data cleaning and manipulation (Pandas).
-* **Visualization:** Matplotlib and Seaborn for creating interactive charts and dashboards.
-* **Analysis:** Statistical analysis of lead times and cost distribution.
+### 🛠 Tech Stack
+* **Language:** Python
+* **Libraries:** Pandas, Matplotlib, Seaborn
 
-🔍 **Key Insights**
-* **Transport Efficiency:** Road transport shows the highest number of products distributed compared to other modes.
-* **Shipping Cost Correlation:** Shipping costs vary significantly across transport modes, with Road being the primary driver.
-* **Revenue Drivers:** There is a clear correlation between lead time and total revenue, highlighting key periods of peak performance.
+### 🔍 Key Insights
+* **Operational Flow:** Clear visualization of product distribution across transport modes.
+* **Cost Drivers:** Identified which transport methods are most cost-effective for the business.
+* **Performance Metrics:** Streamlined tracking of delivery timelines and revenue generation.
 
 
 
