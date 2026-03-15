@@ -96,8 +96,8 @@ litonislamnext@gmail.com
 
 🚀 Explore the Full Analysis on Kaggle:
 You can find the full datasets and detailed Python notebooks here:
-* 📊 [Notebook](https://www.kaggle.com/litonislam)
-* 📊 [Dataset](https://www.kaggle.com/litonislam)
+* 📊 [Notebook]https://www.kaggle.com/code/litonislam/e-commerce-customer-churned-data-analysis
+* 📊 [Dataset]https://www.kaggle.com/datasets/litonislam/e-commerce-customer-churn-cleaned-e-commerce-data
 
   
 ---
