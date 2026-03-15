@@ -167,14 +167,16 @@ Liton Islam <litonislamnext@gmail.com>
  
  
  📊 Supply Chain Data Visualization
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Litonislam-DA/Supply chain Dashboard.png" width="100%">
-</p>
+to me
+ Liton Islam <litonislamnext@gmail.com>
+	
+![Supply Chain Dashboard](Supply%20chain%20Dashboard.png)
+
 This project provides a comprehensive analysis of supply chain operations, including inventory, shipping costs, and lead time metrics.
 
 * **Tech Stack:** Python (Pandas, Matplotlib, Seaborn)
 * **Key Features:** Revenue analysis, Logistics optimization, Transport mode comparison.
 
-
-[https://www.kaggle.com/code/litonislam/supply-chain-data-visualization](লিঙ্কটি এখানে বসান)
+   🚀 Check my Analysis on Kaggle
+[https://www.kaggle.com/code/litonislam/supply-chain-data-visualization]()
 
