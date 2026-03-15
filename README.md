@@ -252,7 +252,7 @@ To me
 
 
 <p align="center">
-  <img src="Superstore sales dataset.png" width="100%">
+  <img src="Superstoresalesdataset.png" width="100%">
 </p>
 
 
