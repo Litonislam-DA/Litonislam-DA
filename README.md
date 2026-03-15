@@ -169,7 +169,7 @@ to me
 
 *Analyzed sales performance and revenue trends.*
 <p align="center">
-  <img src="Supply chain Dashboard.png" width="100%">
+  <img src="SupplychainDashboard.png" width="100%">
 </p>
 This project provides a comprehensive analysis of supply chain operations, including inventory, shipping costs, and lead time metrics.
 
