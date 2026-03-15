@@ -41,10 +41,10 @@ litonislamnext@gmail.com.
     ​🌍 Regional Leader: The Middle East and North America emerge as top-performing regions for sales volume.
     ​💳 Payment Habits: Customer orders are almost equally distributed among payment methods, with UPI and Debit Cards being highly popular.
 
-​
-
 ## 🚀 Check my Analysis on Kaggle
 https://www.kaggle.com/code/litonislam/amazon-sales-revenue-data-visualisation
+
+
 
 ---
 
@@ -83,17 +83,12 @@ litonislamnext@gmail.com
     ​👥 Gender Loyalty: Analyzing loyalty metrics by gender shows distinct patterns in how male and female customers engage with the platform.
     ​🎂 Age Factor: Churn probability is most volatile in the mid-age segments, suggesting that lifestyle changes may influence purchasing habits.
 
-
- 
 ## 🚀 Check my Analysis on Kaggle
 You can find the full datasets and detailed Python notebooks here:
 * 📓 [View my Kaggle Notebooks](https://www.kaggle.com/litonislam)
 * 📊 [Explore my Datasets](https://www.kaggle.com/litonislam)
 
 
-
-
-	
 
 ---
 
@@ -121,11 +116,10 @@ litonislamnext@gmail.com
     ​Power BI: For advanced data visualization and dashboarding.
     ​Python (Pandas, Seaborn): For initial Data Cleaning and Exploratory Data Analysis (EDA).
 
-    
 ## 🚀 Check my Analysis on Kaggle
 https://www.kaggle.com/code/litonislam/hr-analytics-dashboard
 
-
+---
 
 
 to me
@@ -162,18 +156,28 @@ Liton Islam <litonislamnext@gmail.com>
 
  ---
  
-### 📊 Supply Chain Data Visualization
+### 🚚 Supply Chain Data Visualization
 to me
  Liton Islam <litonislamnext@gmail.com>
 <p align="center">
   <img src="Supply chain Dashboard.png" width="100%">
 </p>
-
-This project provides a comprehensive analysis of supply chain operations, including inventory, shipping costs, and lead time metrics.
+This project provides a comprehensive analysis of supply chain operations, including inventory, shipping costs, and lead time metrics to optimize logistics efficiency.
 
 * **Tech Stack:** Python (Pandas, Matplotlib, Seaborn)
-* **Key Features:** Revenue analysis, Logistics optimization, Transport mode comparison.
+* **Key Features:** * **Revenue Analysis:** Evaluation of gross revenue ($577.60K) against supply chain variables.
+    * **Logistics Optimization:** Analysis of delivery times (Avg: 17.08) and shipping costs.
+    * **Transport Mode Comparison:** Breakdown of product distribution and revenue across Road, Rail, Air, and Sea.
 
-   🚀 Check my Analysis on Kaggle
+🛠 **Tools Used**
+* **Python:** For data cleaning and manipulation (Pandas).
+* **Visualization:** Matplotlib and Seaborn for creating interactive charts and dashboards.
+* **Analysis:** Statistical analysis of lead times and cost distribution.
+
+🔍 **Key Insights**
+* **Transport Efficiency:** Road transport shows the highest number of products distributed compared to other modes.
+* **Shipping Cost Correlation:** Shipping costs vary significantly across transport modes, with Road being the primary driver.
+* **Revenue Drivers:** There is a clear correlation between lead time and total revenue, highlighting key periods of peak performance.
+🚀 Check my Analysis on Kaggle
 [https://www.kaggle.com/code/litonislam/supply-chain-data-visualization]()
 
