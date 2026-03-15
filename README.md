@@ -240,19 +240,21 @@ This project visualizes end-to-end supply chain and logistics operations, offeri
  ---
 
 
+
+📊 Superstore Sales Analytics
+
+
 To me
 
  Liton Islam
  
  <litonislamnext@gmail.com>
 
+
 <p align="center">
-  <img src="Superstore sales data set.png" width="100%">
+  <img src="Superstore sales dataset.png" width="100%">
 </p>
 
-
-
- 
 
 📝 Project Overview
 
