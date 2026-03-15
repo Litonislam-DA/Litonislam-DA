@@ -105,6 +105,9 @@ You can find the full datasets and detailed Python notebooks here:
 
 ## 📊 Employee Attrition & Retention Dashboard
 
+---
+
+---
 Analyzed employee data to identify key trends in attrition and retention to drive data-HR decision
 To me  
 Liton Islam 
