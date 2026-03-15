@@ -45,7 +45,7 @@ litonislamnext@gmail.com.
     ​Regional Dominance: The Middle East and North America emerged as the top-performing regions.
     ​Customer Behavior: Orders are remarkably well-distributed across payment methods, showing no heavy dependency on a single gateway.
 
-## 🚀 Check my Analysis on Kaggle
+🚀 Explore the Full Analysis on Kaggle:
 https://www.kaggle.com/code/litonislam/amazon-sales-revenue-data-visualisation
 
 
