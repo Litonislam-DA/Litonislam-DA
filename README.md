@@ -150,8 +150,8 @@ Liton Islam <litonislamnext@gmail.com>
     ​📈 Streaming Boom: A massive surge in content additions is visible after 2015.
     ​🔞 Target Audience: A heavy focus on mature audiences, as indicated by the high volume of TV-MA rated content.
    🚀 Check my Analysis on Kaggle
- * 📊 https://www.kaggle.com/code/litonislam/netflix-data-analysis-trends-insights
-
+ * 📊[Notebook]https://www.kaggle.com/code/litonislam/netflix-data-analysis-trends-insights
+ * 📊[Dataset]https://www.kaggle.com/datasets/litonislam/supply-chain-data-analysis
 	
 
  ---
