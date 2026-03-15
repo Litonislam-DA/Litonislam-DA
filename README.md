@@ -155,23 +155,17 @@ Liton Islam <litonislamnext@gmail.com>
     ​🌍 Global Leaders: The United States leads in production, followed significantly by India.
     ​📈 Streaming Boom: A massive surge in content additions is visible after 2015.
     ​🔞 Target Audience: A heavy focus on mature audiences, as indicated by the high volume of TV-MA rated content.
-
-   
-   
    🚀 Check my Analysis on Kaggle
-
-  * 📊 https://www.kaggle.com/code/litonislam/netflix-data-analysis-trends-insights
+ * 📊 https://www.kaggle.com/code/litonislam/netflix-data-analysis-trends-insights
 
 	
 
  
  
- 📊 Supply Chain Data Visualization
+### 📊 Supply Chain Data Visualization
 to me
  Liton Islam <litonislamnext@gmail.com>
-	
 ![Supply Chain Dashboard](Supply%20chain%20Dashboard.png)
-
 This project provides a comprehensive analysis of supply chain operations, including inventory, shipping costs, and lead time metrics.
 
 * **Tech Stack:** Python (Pandas, Matplotlib, Seaborn)
