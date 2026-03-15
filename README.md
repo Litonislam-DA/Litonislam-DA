@@ -155,8 +155,7 @@ litonislamnext@gmail.com
 
 
 ### 🎬 Netflix Content Strategy Analysis
-To me
-
+To me  
 Liton Islam
 
 litonislamnext@gmail.com.
@@ -199,11 +198,10 @@ This project provides a comprehensive, data-driven analysis of Netflix's global 
  ---
 
 
-To me
+To me  
 Liton Islam
- 
- <litonislamnext@gmail.com>
 
+litonislamnext@gmail.com.
 <p align="center">
   <img src="Supply chain Dashboard.png" width="100%">
 </p>
@@ -240,12 +238,11 @@ This project visualizes end-to-end supply chain and logistics operations, offeri
 
 
 📊 Superstore Sales Analytics
-
-
-To me
+To me  
 Liton Islam
- 
- <litonislamnext@gmail.com>
+
+litonislamnext@gmail.com.
+
 
 
 <p align="center">
@@ -289,11 +286,10 @@ Liton Islam
 
 
 ### 📉 Customer Churn Analysis
-To me
-
+To me  
 Liton Islam
- 
-<litonislamnext@gmail.com>
+
+litonislamnext@gmail.com.
 
 <p align="center">
   <img src="Customer_Churn_Analysis.png" width="100%">
